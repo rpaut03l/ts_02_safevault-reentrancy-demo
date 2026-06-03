@@ -41,7 +41,7 @@
 |---|---|
 | Demo Video (Google Drive) | [Watch here](https://drive.google.com/file/d/1UW-czbJ6zCjCyvIUxxlwvNiTXB9M8nGP/view?usp=sharing) |
 | Source Code (GitHub) | [rpaut03l/ts_02_safevault-reentrancy-demo](https://github.com/rpaut03l/ts_02_safevault-reentrancy-demo) |
-| Presentation Slides | [Group_6_Presentation.pptx](./Group_6_Presentation.pptx) |
+| Presentation Slides | [Group_6_Presentation.pptx](https://github.com/rpaut03l/ts_02_safevault-reentrancy-demo/blob/main/Group%20PPT/Group_6_Presentation.pptx) |
 
 [Back to top](#table-of-contents)
 
