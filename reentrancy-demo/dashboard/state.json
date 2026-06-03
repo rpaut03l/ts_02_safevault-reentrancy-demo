@@ -1,0 +1,7 @@
+{
+  "event": "attack_BLOCKED_by_defense",
+  "vault_balance_wei": "10000000000000000000",
+  "attacker_loot_wei": "0",
+  "alice_recorded_balance_wei": "5000000000000000000",
+  "bob_recorded_balance_wei": "5000000000000000000"
+}
