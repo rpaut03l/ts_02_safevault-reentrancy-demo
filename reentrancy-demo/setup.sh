@@ -1,4 +1,4 @@
-cd ~/Desktop/MTech\ AI\ IIT-Jodhpur*/Cohort-2-Trimester-2/Cyber-Security_ES/Assignment-1-Reentrancy-Attack
+# cd ~/Desktop/MTech\ AI\ IIT-Jodhpur*/Cohort-2-Trimester-2/Cyber-Security_ES/Assignment-1-Reentrancy-Attack
 
 cat > setup.sh <<'SETUP_EOF'
 #!/usr/bin/env bash
@@ -35,8 +35,8 @@ SAFE_EXPECTED="0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
 
 echo ""
 echo -e "${CYN}╔══════════════════════════════════════════════════════════╗${NC}"
-echo -e "${CYN}║  SafeVault Bank · One-Shot Setup                          ║${NC}"
-echo -e "${CYN}║  Group 6 · CSL6010 · Reentrancy Attack Demo               ║${NC}"
+echo -e "${CYN}║  SafeVault Bank · One-Shot Setup                         ║${NC}"
+echo -e "${CYN}║  Group 6 · CSL6010 · Reentrancy Attack Demo              ║${NC}"
 echo -e "${CYN}╚══════════════════════════════════════════════════════════╝${NC}"
 echo ""
 
@@ -167,7 +167,7 @@ echo -e "${GRN}✓ .env.local written${NC}"
 # ───────── DONE ─────────
 echo ""
 echo -e "${GRN}╔══════════════════════════════════════════════════════════╗${NC}"
-echo -e "${GRN}║  ✓ Setup Complete                                         ║${NC}"
+echo -e "${GRN}║  ✓ Setup Complete                                        ║${NC}"
 echo -e "${GRN}╚══════════════════════════════════════════════════════════╝${NC}"
 echo ""
 echo -e "${CYN}Deployed addresses:${NC}"
