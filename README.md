@@ -8,7 +8,7 @@
 | **Instructor** | Prof. Susil Kumar Mohanty |
 | **TA** | Nidhi Srivastava (P23CS0013) |
 | **Institution** | M.Tech AI · IIT Jodhpur · Trimester-02 |
-| **Domain** | Blockchain & Smart-Contract Security |
+| **Domain** | Blockchain & Smart-Contracts Security |
 
 ---
 
